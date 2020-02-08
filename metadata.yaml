@@ -1,5 +1,5 @@
 _repo: Vuorisaarna-Romaani-nykyajalta_61214
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Die Bergpredigt. Finnish
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '39128'
     url: http://www.gutenberg.org/2009/agents/39128
     wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kretzer, Max
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Max_Kretzer
     - https://de.wikipedia.org/wiki/Max_Kretzer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61214#Vuorisaarna-Romaani-nykyajalta
 gutenberg_issued: '2020-01-21'
 gutenberg_type: Text
 identifiers:
