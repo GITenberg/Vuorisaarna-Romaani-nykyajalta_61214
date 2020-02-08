@@ -1,0 +1,37 @@
+_repo: Vuorisaarna-Romaani-nykyajalta_61214
+_version: 0.0.1
+alternative_title: Die Bergpredigt. Finnish
+contributor:
+  translator:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+creator:
+  author:
+    agent_name: Kretzer, Max
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '51311'
+    url: http://www.gutenberg.org/2009/agents/51311
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Max_Kretzer
+    - https://de.wikipedia.org/wiki/Max_Kretzer
+description: ''
+gutenberg_issued: '2020-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61214'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+- GITenberg
+title: 'Vuorisaarna: Romaani nykyajalta'
+url: http://www.gutenberg.org/ebooks/61214
